@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-vector/application-development-banner_1325-399.jpg?w=996&t=st=1660495790~exp=1660496390~hmac=f509238a6c751776fc2a37bb1b3ae836f403d55952e7ef4a6f438ab71673c03e)
 <h1 align="center">Hi 👋, I'm Yashwant Pratap Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend Developer from India</h3>
 <img align = "right" alt="coding" width="400"  src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwantpratapsingh&label=Profile%20views&color=0e75b6&style=flat" alt="yashwantpratapsingh" /> </p>
